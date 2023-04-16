@@ -1,0 +1,6 @@
+[submodule "repos/randomNumGet"]
+	path = repos/randomNumGet
+	url = https://github.com/lanxisama/randomNumGet.git
+[submodule "repos/gitTest"]
+	path = repos/gitTest
+	url = https://github.com/lanxisama/gitTest.git
